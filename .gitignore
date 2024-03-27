@@ -1,1 +1,5 @@
-venv/.env
+.env
+Bot/__pycache__/fishingGame.cpython-38.pyc
+Bot/__pycache__/get.cpython-38.pyc
+Bot/__pycache__/responses.cpython-38.pyc
+Bot/__pycache__/tendies.cpython-38.pyc
